@@ -10,7 +10,7 @@ git status
 mv <file/directory> <existing file/directory> (move file/directory to)
 mv <file/directory> <nonexisting file/directory> (copy and rename)
 sudo
-sudo -s (let's you sudo all commands without typing sudo everytime. [Administrator Priveleges])
+sudo -s (lets you sudo all commands without typing sudo everytime. [Administrator Priveleges])
 sudo reboot
 sudo shutdown
 apt-get
