@@ -19,3 +19,7 @@ emacs
 nano
 vim
 ./ 
+cd .. 
+make
+env
+kill
