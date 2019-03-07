@@ -38,3 +38,4 @@ tail
 =======
 ls -la
 >>>>>>> 628560996da0b6443167724ee23ef547f9f01d43
+which (finds the location of the executables)
