@@ -44,3 +44,5 @@ man (used before a command to show information about that command)
 clear (wipes the board clean)
 cp
 df (show disk usage)
+reboot
+poweroff
