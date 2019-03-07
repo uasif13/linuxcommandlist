@@ -32,3 +32,4 @@ touch       (creates a file)
 locate      (finds a file)
 rm
 pwd
+sudo apt-get update
