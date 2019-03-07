@@ -1,0 +1,1 @@
+rm -r   directory   # be careful! This deletes the folder and EVERYTHING UNDER IT RECURSIVELY
