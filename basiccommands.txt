@@ -33,3 +33,4 @@ locate      (finds a file)
 rm
 pwd
 sudo apt-get update
+ls -la
