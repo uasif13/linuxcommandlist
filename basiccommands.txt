@@ -10,6 +10,7 @@ git status
 mv <file/directory> <existing file/directory> (move file/directory to)
 mv <file/directory> <nonexisting file/directory> (copy and rename)
 sudo
+sudo -s (let's you sudo all commands without typing sudo everytime. [Administrator Priveleges])
 sudo reboot
 sudo shutdown
 apt-get
@@ -43,4 +44,3 @@ man (used before a command to show information about that command)
 clear (wipes the board clean)
 cp
 df (show disk usage)
-sudo apt install (install a package)
