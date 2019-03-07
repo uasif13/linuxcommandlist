@@ -1,2 +1,5 @@
 rm -r   directory   # be careful! This deletes the folder and EVERYTHING UNDER IT RECURSIVELY
 cp <source> <dest> #copy files or folders
+
+
+https://fossbytes.com/a-z-list-linux-command-line-reference/
