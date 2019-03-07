@@ -33,4 +33,8 @@ locate      (finds a file)
 rm
 pwd
 sudo apt-get update
+<<<<<<< HEAD
 tail
+=======
+ls -la
+>>>>>>> 628560996da0b6443167724ee23ef547f9f01d43
