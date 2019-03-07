@@ -15,4 +15,5 @@ rmdir
 g++ 
 g++ -c
 g++ -s -O2
-
+emacs
+nano
