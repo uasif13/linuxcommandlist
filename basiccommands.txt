@@ -26,3 +26,5 @@ cd ..
 make
 env
 kill
+git clone
+git checkout -b iss53
