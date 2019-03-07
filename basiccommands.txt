@@ -7,8 +7,11 @@ git commit -m"comment here"
 git push
 git pull
 git status
-mv
+mv <file/directory> <existing file/directory> (move file/directory to)
+mv <file/directory> <nonexisting file/directory> (copy and rename)
 sudo
+sudo reboot
+sudo shutdown
 apt-get
 mkdir
 rmdir
