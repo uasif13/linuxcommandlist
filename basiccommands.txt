@@ -3,10 +3,16 @@ ls -l
 cd
 cat
 git add .
-git commit -m "comment here"
+git commit -m"comment here"
 git push
+git pull
+git status
 mv
 sudo
 apt-get
 mkdir
 rmdir
+g++ 
+g++ -c
+g++ -s -O2
+
