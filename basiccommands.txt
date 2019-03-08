@@ -46,3 +46,4 @@ man (used before a command to show information about that command)
 clear (wipes the board clean)
 cp
 df (show disk usage)
+ifconfig //lets you find MAC address for your laptop or Rasberry PI
