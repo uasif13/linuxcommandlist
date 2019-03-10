@@ -1,0 +1,12 @@
+Commands in gdb:
+
+gdb a.out # or your executable
+b main    # set a breakpoint in a function
+r         # run the program (will stop at the first breakpoint hit)
+n         # next (executes one statement in your language, this may be several machine language instructions)
+s         # step (step into a function)
+si        # step instruction (one assembly language instruction)
+c         # continue (run until the next breakpoint)
+p var     # print the value of a variable in a high level language
+disp var  # print out the value of the variable every time gdb stops at a breakpoint
+layout reg # show machine language and registers updated every instruction
