@@ -53,3 +53,4 @@ sudo apt remove <package name>
 g++ <file name> -o <output file name>       name the output of a compilation
 exit
 echo [options] [strings]
+du      gives the disk usage of a file in your system
