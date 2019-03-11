@@ -51,3 +51,5 @@ sudo apt install <package name>
 sudo apt remove <package name>
 <package / program> --version       gives the version of the package or program installed
 g++ <file name> -o <output file name>       name the output of a compilation
+exit
+echo [options] [strings]
