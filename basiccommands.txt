@@ -54,3 +54,4 @@ g++ <file name> -o <output file name>       name the output of a compilation
 exit
 echo [options] [strings]
 du      gives the disk usage of a file in your system
+help 	shows list of commands. (Can do [command] -help to get desc. of command and its format)
