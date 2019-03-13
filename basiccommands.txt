@@ -55,3 +55,7 @@ exit
 echo [options] [strings]
 du      gives the disk usage of a file in your system
 help 	shows list of commands. (Can do [command] -help to get desc. of command and its format)
+cat <file(s)> | grep <word fragment you are searching for>      use this in directory to search files for words/word fragments
+grep -e <word/word fragment> <file(s)>                 does the same as the above command except it tells you which file                    
+                                                        everything is from
+grep -w <word> <file(s)>                        searches the files for the complete word 
