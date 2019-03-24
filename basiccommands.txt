@@ -61,3 +61,4 @@ grep -e <word/word fragment> <file(s)>                 does the same as the abov
 grep -w <word> <file(s)>                        searches the files for the complete word 
 ld     combines object files, archives, and import files into one output object file
 chmod   //change access permissions for a file
+cp <source> <dest> #copy files or folders
