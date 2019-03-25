@@ -62,3 +62,24 @@ grep -w <word> <file(s)>                        searches the files for the compl
 ld     combines object files, archives, and import files into one output object file
 chmod   //change access permissions for a file
 cp <source> <dest>
+---------
+Command:      cat $filename1 $filename2 > $filename3
+
+Description:  Creates new file (filename3) with combined output. Overwrites any existing content with same filename
+
+Command:      cat $filename1 $filename2 >> $filename3
+
+Description:  Appends (Adds to end of it) to previous contents of file. 
+
+Command:      find $location -name "poem*"
+
+Description:  This is the find utility. It allows you to look for files and directories. 
+The utility is simple to remember but the arguments are hard to remember. The first argument is the pathname. 
+The second argument refers to what you are referring to. The -name example is what you are looking for and can be either -size,
+-date, -owner, and other things. The third argument indicates a part of what you are looking for.
+
+Command:      grep $ID  $filename
+
+Description: This allows you to find patterns in data. The first argument asks "What are you looking for?".
+The second argument asks "Where are you looking?"
+-----------
