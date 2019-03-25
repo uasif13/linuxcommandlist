@@ -7,6 +7,7 @@ git commit -m"comment here"
 git push
 git pull
 git status
+git branch
 mv <file/directory> <existing file/directory> (move file/directory to)
 mv <file/directory> <nonexisting file/directory> (copy and rename)
 sudo
