@@ -63,3 +63,4 @@ grep -w <word> <file(s)>                        searches the files for the compl
 ld     combines object files, archives, and import files into one output object file
 chmod   //change access permissions for a file
 cp <source> <dest>
+find $location -name "word*" First argument is location. Use pathname. Second argument is type. Third Argument is identification. This allows you to find files or directories.
